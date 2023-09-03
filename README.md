@@ -1,1 +1,6 @@
-# tacocat-simulator-game
+# Tasty Code
+
+## 타코캣과의 일일데이트 시뮬레이션 활동학습
+
+- 이 저장소를 그룹원의 저장소로 fork하여 진행합니다.
+- 그룹 번호와 일치하는 branch를 사용합니다. 
